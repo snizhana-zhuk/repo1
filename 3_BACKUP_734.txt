@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+This is my code
+=======
+>>>>>>> dev1
+This is my new code
